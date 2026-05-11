@@ -93,8 +93,10 @@ A collection of advanced configuration scripts and automation for Team Fortress 
 
 ## **Installation**
 
-1. Download the repository (.zip file).
-2. Unzip the downloaded file.
-3. Open the resulting folder.
-4. Copy the contents of the "scripts" folder to your Team Fortress 2 configuration directory (usually "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\cfg").
-5. Replace existing files if asked.
+1. Go to the "Releases" section.
+2. Go to the latest release.
+3. Download the scripts (scripts.zip).
+4. Unzip the downloaded file.
+5. Open the resulting folder (scripts).
+6. Copy the contents of the "scripts" folder to your Team Fortress 2 configuration directory (usually "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\cfg").
+7. Replace existing files if asked.
