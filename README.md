@@ -35,8 +35,9 @@ A collection of advanced configuration scripts and automation for Team Fortress 
 
 ### **Soldier scripts (soldier.cfg)**
 
-**Advanced mobility tools:**
+**Quick utility usage and advanced mobility tools:**
 
+- **Quick banner script:** quick banner usage that automatically returns to the previous weapon.
 - **Rocket jump script:** automated rocket jumping script with integrated current slot tracking (instant if slot Nº 1 is active, delayed if other slot is active).
 
 ### **Pyro scripts (pyro.cfg)**
@@ -57,7 +58,7 @@ A collection of advanced configuration scripts and automation for Team Fortress 
 
 **Optimized food management:**
 
-- **Quick consume / throw food script:** consolidated food management based on tap and hold key press (Tap to consume, Hold to throw to teammates), with toggable delay and current slot tracking (in case you're using Fists of Steel or Gloves of Running Urgently) with automatic previous weapon return.
+- **Quick consume / throw food script:** consolidated food management based on tap and hold key press (Tap to consume, Hold to throw to teammates), with toggable holster speed penalty bypass mode and current slot tracking (in case you're using Fists of Steel or Gloves of Running Urgently) with automatic previous weapon return.
 
 ### **Engineer scripts (engineer.cfg)**
 
