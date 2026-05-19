@@ -37,14 +37,14 @@ A collection of advanced configuration scripts and automation for Team Fortress 
 
 **Quick utility usage and advanced mobility tools:**
 
-- **Quick banner script:** quick banner usage that automatically returns to the previous weapon.
+- **Quick banner / Holster speed penalty bypass script:** quick banner / holster speed penalty bypass script based on tap and hold logic that, when tapped, instantly performs the banner usage and returns to the previous weapon, and when held, toggles the holster speed penalty bypass mode.
 - **Rocket jump script:** automated rocket jumping script with integrated current slot tracking (instant if slot Nº 1 is active, delayed if other slot is active).
 
 ### **Pyro scripts (pyro.cfg)**
 
 **Optimized utility usage and mobility enhancements:**
 
-- **Quick melee attack script:** quick melee attack that automatically returns to the previous weapon.
+- **Quick melee attack / Holster speed penalty bypass script:** quick melee attack / holster speed penalty bypass script based on tap and hold logic that, when tapped, instantly performs the melee attack and returns to the previous weapon, and when held, toggles the holster speed penalty bypass mode.
 - **Flare Gun / Thermal Thruster automation script:** consolidated secondary primary attack (Tap for Flare Gun, Hold for Thermal Thruster) that automatically returns to the previous weapon.
 - **Flare jump script:** toggleable automated flare jumping with integrated current slot tracking (instant if slot Nº 2 is active, delayed if other slot is active).
 
@@ -52,13 +52,15 @@ A collection of advanced configuration scripts and automation for Team Fortress 
 
 **Simplified mobility:**
 
+- **Holster speed penalty bypass script:** toggable holster speed penalty bypass mode with dynamic weapon switching sequence when changing slots from the melee weapon.
 - **Sticky jump script:** automated sticky jumping.
 
 ### **Heavy scripts (heavyweapons.cfg)**
 
 **Optimized food management:**
 
-- **Quick consume / throw food script:** consolidated food management based on tap and hold key press (Tap to consume, Hold to throw to teammates), with toggable holster speed penalty bypass mode and current slot tracking (in case you're using Fists of Steel or Gloves of Running Urgently) with automatic previous weapon return.
+- **Holster speed penalty bypass script:** toggable holster speed penalty bypass mode with dynamic weapon switching sequence when changing slots from the melee weapon, integrated with the quick throw food script.
+- **Quick consume / throw food script:** consolidated food management based on tap and hold key press (Tap to consume, Hold to throw to teammates) with automatic previous weapon return.
 
 ### **Engineer scripts (engineer.cfg)**
 
