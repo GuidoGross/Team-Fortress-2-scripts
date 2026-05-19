@@ -30,8 +30,8 @@ A collection of advanced configuration scripts and automation for Team Fortress 
 
 **Enhanced projectile management and fast-switch combat:**
 
-- **Quick Flying Guillotine / Mad Milk throw script:** automated secondary throw that immediately returns to the previous weapon.
-- **Quick Wrap Assassin / Sandman ball throw script:** automated melee projectile throw with quick weapon return logic.
+- **Quick Flying Guillotine / Mad Milk throw / Soda drink script:** quick secondary slot usage that automatically returns to the previous weapon.
+- **Quick Wrap Assassin / Sandman ball throw / Soda mode toggle script:** quick melee projectile throw / soda mode toggle script based on tap and hold logic that, when tapped, instantly performs the melee projectile throw and returns to the previous weapon, and when held, toggles the soda mode.
 
 ### **Soldier scripts (soldier.cfg)**
 
