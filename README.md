@@ -37,7 +37,8 @@ A collection of advanced configuration scripts and automation for Team Fortress 
 
 **Quick utility usage and advanced mobility tools:**
 
-- **Quick banner / Holster speed penalty bypass script:** quick banner / holster speed penalty bypass script based on tap and hold logic that, when tapped, instantly performs the banner usage and returns to the previous weapon, and when held, toggles the holster speed penalty bypass mode.
+- **Quick melee attack / Holster speed penalty bypass script:** quick melee attack / holster speed penalty bypass script based on tap and hold logic that, when tapped, instantly performs the melee attack and returns to the previous weapon, and when held, toggles the holster speed penalty bypass mode.
+- **Quick banner script:** toggleable quick banner usage that automatically returns to the quick melee behavior after a single use.
 - **Rocket jump script:** automated rocket jumping script with integrated current slot tracking (instant if slot Nº 1 is active, delayed if other slot is active).
 
 ### **Pyro scripts (pyro.cfg)**
@@ -76,15 +77,14 @@ A collection of advanced configuration scripts and automation for Team Fortress 
 **Tools for improved team support and battlefield awareness:**
 
 - **Quick Crusader's Crossbow heal script:** fast-switch healing script that fires the Crusader's Crossbow and immediately returns to the previous weapon.
-- **Radar script:** toggleable high/normal autocall threshold based radar to locate all teammates at any moment.
-- **ÜberCharge ready alert script:** quick team notification for ÜberCharge readiness.
+- **Radar script:** single use high autocall threshold based radar pulse to locate nearby teammates.
+- **ÜberCharge ready alert script:** toggleable team notification for ÜberCharge readiness that automatically returns to the radar behavior after a single use.
 
 ### **Sniper scripts (sniper.cfg)**
 
-**Advanced precision tools and utility automation:**
+**Utility automation:**
 
 - **Quick Jarate throw script:** quick Jarate throw with immediate return to the previous weapon.
-- **Quick scope script:** automated quick-scoping logic for faster precision shots.
 
 ### **Spy scripts (spy.cfg)**
 
